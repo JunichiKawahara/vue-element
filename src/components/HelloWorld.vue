@@ -11,6 +11,15 @@
     <el-slider v-model="value1"></el-slider>
   </div>
   <div>{{ value1 }}</div>
+
+  <div class="block">
+    <span class="demonstration">日付ピッカー</span>
+    <el-date-picker
+      v-model="valueDate"
+      type="date"
+      placeholder="日付を選んでください">
+    </el-date-picker>
+  </div>
 </div>
 </template>
 
@@ -20,6 +29,7 @@ export default {
   data () {
     return {
       value1: 50,
+      valueDate: '',
     }
   }
 }
