@@ -3,9 +3,9 @@
 > A Vue.js project
 
 参考サイト
-[VuejsのコンポーネントライブラリElementUIを使ってみた](https://qiita.com/naoki0531/items/0fe96c21cdb62751d6c6)
-[Vue.js製のUIフレームワーク「Element」の使い方](https://techblog.scouter.co.jp/entry/2017/11/14/120000)
-[Vue.jsのコンポーネント詰め合わせ「Element」がスゴかった](https://s8a.jp/vue-js-library-element)
+* [VuejsのコンポーネントライブラリElementUIを使ってみた](https://qiita.com/naoki0531/items/0fe96c21cdb62751d6c6)
+* [Vue.js製のUIフレームワーク「Element」の使い方](https://techblog.scouter.co.jp/entry/2017/11/14/120000)
+* [Vue.jsのコンポーネント詰め合わせ「Element」がスゴかった](https://s8a.jp/vue-js-library-element)
 
 ## Build Setup
 
